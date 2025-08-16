@@ -1,0 +1,6 @@
+Flask==3.0.3
+pandas
+matplotlib
+scikit-learn
+requests
+beautifulsoup4
